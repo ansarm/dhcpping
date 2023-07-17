@@ -1,0 +1,1 @@
+void print_dhcp_tag(DHCP_HDR * tag);
